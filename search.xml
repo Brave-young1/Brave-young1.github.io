@@ -4,12 +4,31 @@
   
     
     <entry>
+      <title>hello</title>
+      <link href="/2024/09/16/hello/"/>
+      <url>/2024/09/16/hello/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>text1</title>
       <link href="/2024/09/16/text1/"/>
       <url>/2024/09/16/text1/</url>
       
         <content type="html"><![CDATA[<p>hello</p>]]></content>
       
+      
+      <categories>
+          
+          <category> UTMsystem </category>
+          
+      </categories>
       
       
         <tags>

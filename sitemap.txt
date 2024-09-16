@@ -1,6 +1,7 @@
-http://example.com/tags/index.html
-http://example.com/label/index.html
 http://example.com/2024/09/16/text1/
+http://example.com/categories/index.html
+http://example.com/2024/09/16/hello/
+http://example.com/tags/index.html
 http://example.com/UTMsystem/index.html
 http://example.com/article/index.html
 http://example.com/about/index.html
@@ -8,3 +9,4 @@ http://example.com/2024/09/15/ceshi/
 http://example.com/2024/08/30/hello-world/
 http://example.com/
 http://example.com/tags/UTMsystem/
+http://example.com/categories/UTMsystem/
