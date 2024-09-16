@@ -1,3 +1,4 @@
+http://example.com/label/index.html
 http://example.com/2024/09/16/text1/
 http://example.com/UTMsystem/index.html
 http://example.com/article/index.html
