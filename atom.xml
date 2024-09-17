@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-15T03:16:07.171Z</updated>
+  <updated>2024-09-17T06:41:44.853Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,19 +21,21 @@
     <link href="http://example.com/2024/08/30/hello-world/"/>
     <id>http://example.com/2024/08/30/hello-world/</id>
     <published>2024-08-30T07:03:12.133Z</published>
-    <updated>2024-09-15T03:16:07.171Z</updated>
+    <updated>2024-09-17T06:41:44.853Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎来到勇者young的个人博客！这是第一篇文章。这是我的Bilibili帐号<a href="https://space.bilibili.com/3493283638544955">（点击此处）</a>。感谢大家支持！</p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到勇者young的个人博客！这是第一篇文章。如果你想了解更多，请查看“关于”界面。感谢大家支持！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;欢迎来到勇者young的个人博客！这是第一篇文章。这是我的Bilibili帐号&lt;a href=&quot;https://space.bilibili.com/3493283638544955&quot;&gt;（点击此处）&lt;/a&gt;。感谢大家支持！&lt;/p&gt;
+    <summary type="html">&lt;p&gt;欢迎来到勇者young的个人博客！这是第一篇文章。如果你想了解更多，请查看“关于”界面。感谢大家支持！&lt;/p&gt;
 </summary>
       
     
     
     
+    
+    <category term="文章" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
