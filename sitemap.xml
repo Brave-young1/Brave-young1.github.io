@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWindows98-SE/</loc>
+    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWindows7-32%E4%BD%8D%E6%9E%81%E9%99%90%E7%B2%BE%E7%AE%80/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
@@ -12,6 +12,51 @@
   
   <url>
     <loc>https://brave-young1.github.io/2024/10/26/Windows-FLP/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWindows2000/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWindows95/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWindows7-64%E4%BD%8D%E7%B2%BE%E7%AE%80%E7%89%88/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWIndows8-1%E7%B2%BE%E7%AE%80%E7%89%88/</loc>
+    
+    <lastmod>2024-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://brave-young1.github.io/2024/11/03/UTM%E7%B3%BB%E7%BB%9F%EF%BC%9AWindows98-SE/</loc>
     
     <lastmod>2024-11-03</lastmod>
     
